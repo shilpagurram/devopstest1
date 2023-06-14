@@ -1,2 +1,6 @@
 This is a sample text file!!!
+<<<<<<< HEAD
+dev2 changed 
+=======
 This is used to undersatnd conflicts
+>>>>>>> origin/master
